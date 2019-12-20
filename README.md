@@ -17,7 +17,7 @@ $ composer install
 $ php artisan key:generate
 ```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
-- 你可以經由 `/redact-data/ 來進行遮蔽字串。
+- 你可以經由 `/redact-data/` 來進行遮蔽字串。
 
 ----
 ## 畫面截圖
