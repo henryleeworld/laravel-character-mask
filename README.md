@@ -1,4 +1,4 @@
-# Laravel 7 遮蔽字串
+# Laravel 8 遮蔽字串
 
 引入 fuko-php 的 masked 套件來擴增將指定的字元數替換為某個固定字元，藉此遮蔽字串。
 
