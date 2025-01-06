@@ -1,4 +1,4 @@
-# Laravel 10 遮蔽字串
+# Laravel 11 遮蔽字串
 
 引入 fuko-php 的 masked 套件來擴增將指定的字元數替換為某個固定字元，藉此遮蔽字串。
 
@@ -12,7 +12,7 @@ $ git clone
 ```sh
 $ composer install
 ```
-- 產⽣ Laravel 要使用的一組 32 字元長度的隨機字串 APP_KEY 並存在 .env 內。
+- 產生 Laravel 要使用的一組 32 字元長度的隨機字串 APP_KEY 並存在 .env 內。
 ```sh
 $ php artisan key:generate
 ```
@@ -21,5 +21,5 @@ $ php artisan key:generate
 
 ----
 ## 畫面截圖
-![](https://i.imgur.com/yZmnXQF.png)
+![](https://i.imgur.com/NFzCntD.png)
 > 用來遮蔽機密值每個字元的字元。舉例來說，你可以指定星號或井號來遮蔽一系列數字，例如信用卡號碼的數字。
